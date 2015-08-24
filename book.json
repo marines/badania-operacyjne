@@ -3,5 +3,7 @@
   "title": "badania-operacyjne",
   "description": "opracowanie",
   "language": "pl",
-  "plugins": []
+  "plugins": [
+    "katex"
+  ]
 }
