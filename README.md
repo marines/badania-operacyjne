@@ -1,0 +1,5 @@
+Badania Operacyjne
+=============
+Opracowanie
+
+---
