@@ -4,6 +4,8 @@
 * [Treści Zadań](materialy/tresci-zadan/tresci-zadan.md) 
 * [Zadania](rozwiazania-zadan/introduction.md)
     * [1.01](rozwiazania-zadan/1/1-01.md)
+    * [1.02](rozwiazania-zadan/1/1-02.md)
+    * [1.03](rozwiazania-zadan/1/1-03.md)
     * [2.02](rozwiazania-zadan/2/02/2-02.md)
     * [2.03](rozwiazania-zadan/2/2-03.md)
     * [3.01](rozwiazania-zadan/3/3-01.md)
