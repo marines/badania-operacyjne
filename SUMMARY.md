@@ -1,7 +1,8 @@
 # Summary
 
 * [Wykład](materialy/wyklad/wyklad.md)
-* [Rozwiązania Zadań](rozwiazania-zadan/introduction.md)
+* [Treści Zadań](materialy/tresci-zadan/tresci-zadan.md) 
+* [Zadania](rozwiazania-zadan/introduction.md)
     * [1.01](rozwiazania-zadan/1/1-01.md)
     * [2.02](rozwiazania-zadan/2/02/2-02.md)
     * [2.03](rozwiazania-zadan/2/2-03.md)
