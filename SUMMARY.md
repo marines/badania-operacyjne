@@ -7,7 +7,7 @@
     * [1.02](rozwiazania-zadan/1/1-02.md)
     * [1.03](rozwiazania-zadan/1/1-03.md)
     * [2.01](rozwiazania-zadan/2/2-01.md)
-    * [2.02](rozwiazania-zadan/2/02/2-02.md)
+    * [2.02](rozwiazania-zadan/2/2-02.md)
     * [2.03](rozwiazania-zadan/2/2-03.md)
     * [3.01](rozwiazania-zadan/3/3-01.md)
     * [3.02](rozwiazania-zadan/3/3-02.md)
