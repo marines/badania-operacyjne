@@ -4,6 +4,7 @@
   "description": "opracowanie",
   "language": "pl",
   "plugins": [
-    "katex"
+    "katex",
+    "expandable-chapters"
   ]
 }
