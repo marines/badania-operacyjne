@@ -9,10 +9,10 @@ gulp.task('build', function () {
       .pipe(shell('gitbook build'));
 });
 
-gulp.task('serve', function () {
-  browserSync({server: './_book'});
-  gulp.watch('**/*.md', ['build']);
-  gulp.watch(["**/*.html"]).on('change', browserSync.reload);
-});
-
-gulp.task('default', ['build', 'serve']);
+//gulp.task('serve', function () {
+//  browserSync({server: './_book'});
+//  gulp.watch('**/*.md', ['build']);
+//  gulp.watch(["**/*.html"]).on('change', browserSync.reload);
+//});
+//
+//gulp.task('default', ['build', 'serve']);
