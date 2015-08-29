@@ -39,3 +39,6 @@
     * [zad2](kolokwia/20YY/02/02.md)
     * [zad3](kolokwia/20YY/03/03.md)
 * [20XX](kolokwia/20XX/20XX.md)
+    * [zad1](kolokwia/20XX/01/01.md)
+    * [zad2](kolokwia/20XX/02/02.md)
+    * [zad3](kolokwia/20XX/03/03.md)
