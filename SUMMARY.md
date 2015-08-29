@@ -35,4 +35,7 @@
     * [zad2](kolokwia/2009/drugi-termin/02/02.md)
     * [zad3](kolokwia/2009/drugi-termin/03/03.md)
 * [20YY](kolokwia/20YY/20YY.md)
+    * [zad1](kolokwia/20YY/01/01.md)
+    * [zad2](kolokwia/20YY/02/02.md)
+    * [zad3](kolokwia/20YY/03/03.md)
 * [20XX](kolokwia/20XX/20XX.md)

@@ -34,7 +34,7 @@ $$ r = \frac{\tau_{sr}}{v} $$
 
 Prawo Little'a:
 
-$$  N_{sr} = \frac{1-L}{s_{sr}} * d_{sr} $$
+$$  N_{sr} = \frac{1-L}{a_{sr}} * d_{sr} $$
 
 w ujęciu procesora: $$ 1 - p_0 = \frac{(1-L)}{a_{sr}} * \tau_{sr} = (1-L) * r $$
 
