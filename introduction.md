@@ -73,6 +73,8 @@ $$ p_0 = 1 - (p_1 + p_2 + p_3 + ...) \Rightarrow p_0 = 1 - r $$
 
 *Systemy Typu: M/M/1/Q*
 
+$$ p_0 = \frac{1-r}{1-r^{Q+1}} $$
+
 $$ L = \frac{1-r}{1-r^{Q+1}} * r^Q $$, gdy $$ r ne 1 $$
 
 $$ L = \frac{1}{Q + 1} $$, gdy $$ r = 1 $$
