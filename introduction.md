@@ -14,6 +14,8 @@ $$ d_{sr} $$ średni czas przebywania w systemie
 
 $$ r \ [bezwymiarowe] $$ współczynnik obciążenie procesora | niestabilność przy $$ r \ge 1 $$  
 
+$$ \rho \ [bezwymiarowe] $$ normatywny współczynnik obciążenia - w systemach wielo procesorowych
+
 $$ L $$ frakcja zgłoszeń utraconych wskutek przepełnienia pamięci buforowej
 
 $$ p_k \ [bezwymiarowe] $$ frakcja czasu w której w systemie jest k zgłoszeń
