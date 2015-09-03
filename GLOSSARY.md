@@ -23,8 +23,4 @@ zadania z systemem typu M/M/1/Q - ,gdzie Q jest skończone:
 zadania z systemem typu M/M/S/S:
  
 # zadanie obecnie - bez rozwiązania
-grupa zadań które obecnie są bez rozwiązania, rozwiązane nie całkowicie lub rozwiązanie jest bardzo enigmatyczne wymagające poprawy.
-
-wkład własny bardzo mile widziany 
-
-przyjmuję pull-request'y pod https://github.com/pawelgorka/badania-operacyjne ale dla osób nieznających gita - mile widziane będą też (skany/smartfonowe fotografie) przesłane na email: contact@pawelgorka.com
+grupa zadań które obecnie są bez rozwiązania, rozwiązane nie całkowicie lub rozwiązanie jest bardzo enigmatyczne wymagające poprawy. Wkład własny bardzo mile widziany. Przyjmuję pull-request'y pod https://github.com/pawelgorka/badania-operacyjne ale dla osób nieznających gita - mile widziane będą też (skany/smartfonowe fotografie) przesłane na email: contact@pawelgorka.com
