@@ -27,11 +27,14 @@ wiki: twierdzenie mówiące o tym, że średnia liczba klientów w systemie jest
 # strumien poissona
 strumien poissona
 
-# zadanie z systemem typu M/M/1
+# zadanie typu graf stanów
+zadanie z typu graf stanów
+
+# zadanie typu M/M/1
 zadanie z systemem typu M/M/1
 
-# zadanie z systemem typu M/M/1/Q
+# zadanie typu M/M/1/Q
 zadanie z systemem typu M/M/1/Q
 
-# zadanie z systemem typu S/S
+# zadanie typu M/M/S/S
 zadanie z systemem typu S/S
