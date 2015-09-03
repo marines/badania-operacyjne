@@ -20,7 +20,7 @@ zadania z systemem typu M/M/1 - , gdzie pojemność pamięci bufora jest niesko�
 zadania z systemem typu M/M/1/Q - ,gdzie Q jest skończone: 
 
 # zadanie typu M/M/S/S
-zadania z systemem typu S/S:
+zadania z systemem typu M/M/S/S:
  
 # zadanie obecnie - bez rozwiązania
 grupa zadań które obecnie są bez rozwiązania, rozwiązane nie całkowicie lub rozwiązanie jest bardzo enigmatyczne wymagające poprawy.
