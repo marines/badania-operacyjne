@@ -1,2 +1,2 @@
-# slajd 024
+##### slajd - 024
 ![slide](slide.png)
