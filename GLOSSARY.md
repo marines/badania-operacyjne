@@ -1,6 +1,9 @@
 # strumien poissona
 strumien poissona
 
+#równanie urodzin i śmierci
+równanie urodzin i śmierci
+
 # zadanie z tabelą - średnich znormalizowanych opóźnienień systemowych
 zadania z tabelą - średnich znormalizowanych opóźnienień systemowych
 
