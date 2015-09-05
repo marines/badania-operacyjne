@@ -1,5 +1,6 @@
 # Summary
 
+* [Oznaczenia](oznaczenia.md)
 * [Wykład](materialy/wyklad/wyklad.md)
     * [slajd-001](materialy/wyklad/001/slide.md)
     * [slajd-002](materialy/wyklad/002/slide.md)

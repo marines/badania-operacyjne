@@ -3,9 +3,6 @@
   "title": "badania-operacyjne",
   "description": "opracowanie",
   "language": "pl",
-  "structure": {
-    "readme": "introduction.md"
-  },
   "plugins": [
     "katex",
     "expandable-chapters"
