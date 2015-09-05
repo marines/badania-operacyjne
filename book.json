@@ -1,7 +1,7 @@
 {
   "gitbook": ">=2.0.0",
   "title": "badania-operacyjne",
-  "description": "opracowanie",
+  "description": "opracowanie z przedmiotu badania operacyjne",
   "language": "pl",
   "plugins": [
     "katex",
