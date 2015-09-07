@@ -32,7 +32,7 @@ $$ \tau_{sr} = \frac{b_{sr}}{v} $$
 
 $$ r = \frac{b_{sr}}{a_{sr} * v} $$
 
-$$ r = \frac{\tau_{sr}}{v} $$
+$$ r = \frac{\tau_{sr}}{a_{sr}} $$
 
 Prawo Little'a:
 
