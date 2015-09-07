@@ -4,7 +4,7 @@
 
 $$ a_{sr} $$ śreni interwał przybycia zgłoszenia ( zawsze dane ? )
 
-$$ b_{sr} $$ śreni rozmiar zgłoszenia
+$$ b_{sr} $$ średni rozmiar zgłoszenia
 
 $$ v \ [wymiar zgloszenia/s]$$ prędkość procesora
  
