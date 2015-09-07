@@ -12,7 +12,7 @@ $$ \tau_{sr} $$ średni czas obsługi zgłoszenia
 
 $$ w_{sr} $$ średni opóźnienie buforowania
 
-$$ d_{sr} $$ średni czas przebywania w systemie
+$$ d_{sr} $$ średni czas przebywania w systemie ( czas życia )
 
 $$ r \ [bezwymiarowe] $$ współczynnik obciążenie procesora | niestabilność przy $$ r \ge 1 $$  
 
